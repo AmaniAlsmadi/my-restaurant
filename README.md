@@ -13,12 +13,12 @@ my restaurant website
 
 <br>
 
-![](https://th.bing.com/th/id/OIP.Rrb9g7vA7vQwTUggDXHiOQHaE8?pid=ImgDet&rs=1)
+![](./assets/reataurant.jpg)
 
 [my github](https://github.com/AmaniAlsmadi)
 
 <br>
 
-![](https://www6.0zz0.com/2022/06/29/13/553253746.png)
+![](./assets/wireframe.png)
 
-![](https://www6.0zz0.com/2022/06/29/13/208561719.png)
+![](./assets/pro%20wireframe.png)
